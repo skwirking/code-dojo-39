@@ -20,6 +20,8 @@ A [PHP](https://php.net/) version can be found in the [PHP](PHP) folder; produce
 
 	php song.php
 	
+A [C#](http://www.visualstudio.com) version can be found in the [csharp](csharp) folder.
+	
 
 You can find out more about the London Code Dojo at our [homepage](http://www.meetup.com/London-Code-Dojo/).
 
